@@ -4,7 +4,7 @@
 package it.univr.order.sorted.algebra;
 
 /**
- * @author giovanni
+ * @author
  *
  */
 public class Main {
