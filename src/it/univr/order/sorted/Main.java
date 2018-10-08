@@ -4,7 +4,7 @@
 package it.univr.order.sorted;
 
 /**
- * @author giovanni
+ * @author
  *
  */
 public class Main {
