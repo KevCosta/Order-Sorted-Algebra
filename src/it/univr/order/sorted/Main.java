@@ -1,10 +1,10 @@
 /**
  * 
  */
-package it.univr.order.sorted.algebra;
+package it.univr.order.sorted;
 
 /**
- * @author
+ * @author giovanni
  *
  */
 public class Main {
@@ -14,7 +14,6 @@ public class Main {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//prova Kevin
 
 	}
 
