@@ -27,6 +27,10 @@ public class Main {
 		
 		Simbol<Float> s3 = new Simbol<Float>(5.433f);
 		System.out.println("Nuovo simbolo " + s3);
+		
+		
+		Simbol<String> op = new Operator<String>("+");
+		System.out.println("Nuovo simbolo " + op);
 	}
 
 }

@@ -12,6 +12,7 @@ public class Simbol <T> {
 		this.object = object;
 	}
 	
+	
 
 	public void setObject(T object){
 		this.object = object;
